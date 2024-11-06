@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/NewDMXControlConsole.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/DMX/DMXLibrary_01.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/_BP/BP_.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/_BP/BP_ConsoleUI.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/DMX_Controls.umap",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/Blueprints/NewGameMode_dmx.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/Blueprints/NewPlayerController_dmx.uasset",
+				"/Users/haiyingcheng/Documents/Unreal Projects/DMX_00/Content/_BP/BP_LaserM2.uasset"
+			]
+		}
+	]
+}
